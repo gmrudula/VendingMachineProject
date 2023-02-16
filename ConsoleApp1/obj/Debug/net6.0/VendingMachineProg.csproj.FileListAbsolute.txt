@@ -1,0 +1,15 @@
+C:\Users\g mrudula\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\VendingMachineProg.exe
+C:\Users\g mrudula\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\VendingMachineProg.deps.json
+C:\Users\g mrudula\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\VendingMachineProg.runtimeconfig.json
+C:\Users\g mrudula\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\VendingMachineProg.dll
+C:\Users\g mrudula\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\VendingMachineProg.pdb
+C:\Users\g mrudula\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VendingMachineProg.csproj.AssemblyReference.cache
+C:\Users\g mrudula\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VendingMachineProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g mrudula\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VendingMachineProg.AssemblyInfoInputs.cache
+C:\Users\g mrudula\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VendingMachineProg.AssemblyInfo.cs
+C:\Users\g mrudula\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VendingMachineProg.csproj.CoreCompileInputs.cache
+C:\Users\g mrudula\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VendingMachineProg.dll
+C:\Users\g mrudula\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\VendingMachineProg.dll
+C:\Users\g mrudula\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VendingMachineProg.pdb
+C:\Users\g mrudula\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\VendingMachineProg.genruntimeconfig.cache
+C:\Users\g mrudula\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\VendingMachineProg.dll
